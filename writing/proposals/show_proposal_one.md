@@ -4,26 +4,27 @@
 
 <!---toc start-->
 
-* [Show Proposal One](#show-proposal-one)
-  * [✨ Table of Contents](#-table-of-contents)
-  * [Gregory M. Kapfhammer](#gregory-m-kapfhammer)
-  * [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
-  * [🏁 One Sentence Pitch](#-one-sentence-pitch)
-  * [🔬 Show Details](#-show-details)
-  * [📝 Show Objectives](#-show-objectives)
-  * [📚 Sample Questions](#-sample-questions)
-  * [🎉 Show Description](#-show-description)
-  * [📢 Call to Action](#-call-to-action)
-  * [🦜 References](#-references)
+- [Show Proposal One](#show-proposal-one)
+  - [✨ Table of Contents](#-table-of-contents)
+  - [Joseph Ubasinachi Oforkansi](#joseph-ubasinachi-oforkansi)
+  - [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
+  - [🏁 One Sentence Pitch](#-one-sentence-pitch)
+  - [🔬 Show Details](#-show-details)
+  - [📝 Show Objectives](#-show-objectives)
+  - [📚 Sample Questions](#-sample-questions)
+  - [🎉 Show Description](#-show-description)
+  - [📢 Call to Action](#-call-to-action)
+  - [🦜 References](#-references)
 
 <!---toc end-->
 
-## Add Your Name Here
+## Joseph Ubasinachi Oforkansi
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
+You must retype the sentence here in order to digitally sign your pledge.
 
+I adhered to the Allegheny college Honor Code while completing this project
 
 
 **IMPORTANT:** If you do not type the required sentence then the course
@@ -32,32 +33,43 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-TODO: Provide a compelling sentence that summarizes and pitches your podcast
+Provide a compelling sentence that summarizes and pitches your podcast
 episode.
+
+What is Math department all about and how it may interest you as a major / career.
 
 ## 🔬 Show Details
 
-TODO: Provide all of the required details for your podcast episode.
+Provide all of the required details for your podcast episode.
+*Title*
+*Introduction*
+*Episode Number*
+*Date*
+*Description*
+*Transcript*
 
-TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
+Make sure that your title follows the format `[Name of Guest] on [Name of
 Topic]`.
 
-- **Title**:
-- **Host**:
-- **Guest**:
+- **Title**: Math is fun
+- **Host**: Me
+- **Guest**: Professor Chris Lundberg
 
 ## 📝 Show Objectives
-
 TODO: Provide a list of of at least three objectives for the podcast episode.
 
-- **Objective One**:
-- **Objective Two**:
-- **Objective Three**:
+- **Objective One**: Introduction to mathematics world.
+- **Objective Two**: How Mathematics was discovered.
+- **Objective Three**: How Mathematics explains things about the world.
 
 ## 📚 Sample Questions
 
-TODO: Provide a list of of at least three sample questions that the host will
+Provide a list of of at least three sample questions that the host will
 ask the guest.
+
+What is Mathematics?
+How did you become interested in Mathematics?
+How do you create a supportive and inclusive environment for students?
 
 TODO: Provide a justification for why asking this question will achieve one of
 the stated objectives for the podcast episode.
