@@ -104,6 +104,7 @@ After a person listens to this episode what do you want them to do?
 
 Write at least two sentences that explain the call to action for this episode.
 
+ If you found this episode insightful and engaging, I encourage you to please share it with others who may benefit from its content. Additionally, consider following my podcast to stay updated on future episodes and continue exploring the fascinating world of mathematics together. Let's spread the joy of learning and discovery!
 
 ## 🦜 References
 
@@ -113,7 +114,7 @@ conference proceedings that you studied when preparing this proposal.
 Make sure that you use correctly formatted Markdown links to the
 references that you consulted when writing this show proposal.
 
-- **Reference One**:
+- **Reference One**: 
 - **Reference Two**:
 - **Reference Three**:
 
