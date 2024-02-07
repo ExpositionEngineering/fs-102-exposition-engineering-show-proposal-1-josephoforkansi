@@ -56,7 +56,7 @@ Topic]`.
 - **Guest**: Professor Chris Lundberg
 
 ## 📝 Show Objectives
-TODO: Provide a list of of at least three objectives for the podcast episode.
+Provide a list of of at least three objectives for the podcast episode.
 
 - **Objective One**: Introduction to mathematics world.
 - **Objective Two**: How Mathematics was discovered.
