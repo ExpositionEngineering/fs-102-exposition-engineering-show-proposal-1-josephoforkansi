@@ -55,6 +55,7 @@ Topic]`.
 - **Guest**: Professor Chris Lundberg
 
 ## 📝 Show Objectives
+
 Provide a list of of at least three objectives for the podcast episode.
 
 - **Objective One**: Introduction to mathematics world.
