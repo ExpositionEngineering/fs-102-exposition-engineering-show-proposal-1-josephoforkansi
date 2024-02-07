@@ -113,9 +113,9 @@ conference proceedings that you studied when preparing this proposal.
 Make sure that you use correctly formatted Markdown links to the
 references that you consulted when writing this show proposal.
 
-- **Reference One**: (https://www.podomatic.com/podcasts/mathed)
-- **Reference Two**: (https://makemathmoments.libsyn.com/)
-- **Reference Three**: (https://www.learningthroughmath.com/podcast)
+- **Reference One**: [The Build Math Minds Podcast website](https://buildmathminds.com/podcast/)
+- **Reference Two**: [Math Ed podcast Website](https://www.podomatic.com/podcasts/mathed)
+- **Reference Three**: [MathsTalk by AMSI Website](https://calculate.org.au/mathstalk-podcast/)
 
 If you used any type of artificial intelligence (AI) writing assistant
 tools, please add an additional paragraph that explains clearly specific tools
