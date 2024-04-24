@@ -62,7 +62,7 @@ In this episode, we explore mathematics' practical applications and relevance fo
 
 ## 📢 Call to Action
 
- If you found this episode insightful and engaging, I encourage you to please share it with others who may benefit from its content. Additionally, consider following my podcast to stay updated on future episodes and continue exploring the fascinating world of mathematics together. Let's spread the joy of learning and discovery!
+If you found this episode insightful and engaging, I encourage you to please share it with others who may benefit from its content. Additionally, consider following my podcast to stay updated on future episodes and continue exploring the fascinating world of mathematics together. Let's spread the joy of learning and discovery!
 
 ## 🦜 References
 
