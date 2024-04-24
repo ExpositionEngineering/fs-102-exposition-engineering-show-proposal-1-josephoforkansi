@@ -30,17 +30,6 @@ What is the math department all about, and how might it interest you as a major?
 
 ## 🔬 Show Details
 
-Provide all of the required details for your podcast episode.
-*Title*
-*Introduction*
-*Episode Number*
-*Date*
-*Description*
-*Transcript*
-
-Make sure that your title follows the format `[Name of Guest] on [Name of
-Topic]`.
-
 - **Title**: Chris Lundberg on Math is fun
 - **Host**: Joseph Oforkansi
 - **Guest**: Professor Chris Lundberg
