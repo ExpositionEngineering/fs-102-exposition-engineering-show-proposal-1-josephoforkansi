@@ -22,11 +22,9 @@
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-You must retype the sentence here in order to digitally sign your pledge.
-
 I adhered to the Allegheny College Honor Code while completing this project.
 
-**IMPORTANT:** If you do not type the required sentence then the course
+**IMPORTANT:** If you do not type the required sentence, then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
 while completing the project.
 
@@ -35,7 +33,7 @@ while completing the project.
 Provide a compelling sentence that summarizes and pitches your podcast
 episode.
 
-What is Math department all about and how it may interest you as a major / career.
+What is the math department all about, and how might it interest you as a major?
 
 ## 🔬 Show Details
 
@@ -50,57 +48,50 @@ Provide all of the required details for your podcast episode.
 Make sure that your title follows the format `[Name of Guest] on [Name of
 Topic]`.
 
-- **Title**: Math is fun
-- **Host**: Me
+- **Title**: Chris Lundberg on Math is fun
+- **Host**: Joseph Oforkansi
 - **Guest**: Professor Chris Lundberg
 
 ## 📝 Show Objectives
 
-Provide a list of of at least three objectives for the podcast episode.
+Provide a list of at least three objectives for the podcast episode.
 
-- **Objective One**: Introduction to mathematics world.
-- **Objective Two**: How Mathematics was discovered.
-- **Objective Three**: How Mathematics explains things about the world.
+- **Objective One**: Introduce listeners to the world of mathematics.
+- **Objective Two**: Explore the discovery of mathematics.
+- **Objective Three**: Explain how mathematics illuminates aspects of the world.
 
 ## 📚 Sample Questions
 
-Provide a list of of at least three sample questions that the host will
+Provide a list of at least three sample questions that the host will
 ask the guest.
 
-What is Mathematics?
-How did you become interested in Mathematics?
-How do you create a supportive and inclusive environment for students?
+- **Question One**: What does mathematics mean to you personally?
+- **Question Two**: What sparked your interest in pursuing mathematics as a field of study?
+- **Question Three**: How do you ensure that your teaching methods support and encourage all students, regardless of their backgrounds or abilities?
 
-Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
+Justify why this question aligns with the podcast objective.
 
-- **Question One**: What is Mathematics?
-- **Question Two**: How did you become interested in Mathematics?
-- **Question Three**: How do you create a supportive and inclusive environment for students?
-
-- **Justification for Question One**: It is important to ask because it gives potential listeners a background to mathematics.
-- **Justification for Question Two**: This is an important question because my guest speaker my have similar experiences to potential   listeners.
-- **Justification for Question Three**: This is an important question because majority of potential listeners are students, and for you to learn effectively you need to communicate strategically by creating an inclusive environment where communication is happening non violently.
+- **Justification for Question One**: By asking what mathematics means to the guest personally, the podcast can introduce listeners to the diverse perspectives and personal connections people have with mathematics, helping to immerse them into the world of mathematics.
+- **Justification for Question Two**: Inquiring about what sparked the guest's interest in pursuing mathematics as a field of study can delve into the historical and personal narratives of discovery and passion, shedding light on how individuals develop their interest in mathematics.
+- **Justification for Question Three**: By exploring how the guest ensures that teaching methods support and encourage all students, irrespective of their backgrounds or abilities, the podcast can showcase the inclusive and practical applications of mathematics in understanding and addressing diverse learning needs and experiences.
 
 ## 🎉 Show Description
 
 Write at least three to five paragraphs that describe the content of the
 episode, ensuring that the description is both engaging and informative.
 
-In my upcoming podcast, I am excited to delve into the fascinating world of mathematics and its relevance to students. Through engaging discussions, interviews, and informative segments, I aim to make mathematics more accessible and enjoyable for my audience.
+Our podcast episode is a deep dive into the dynamic world of mathematics, aiming to make this often intimidating subject accessible and engaging for our audience. Through insightful interviews with experts and captivating discussions, we explore the practical applications of mathematics in everyday life and various academic fields.
 
-One of the main focuses of the podcast will be to explore how mathematics applies to everyday life and various fields of study. By showcasing real-world examples and practical applications, I hope to demonstrate the importance and versatility of mathematical concepts beyond the classroom.
+The episode begins with an introduction to the importance of mathematics, setting the stage for discussions on its role in problem-solving, critical thinking, and decision-making. We then delve into specific topics such as mathematical modeling, data analysis, and the impact of technology on mathematical concepts.
 
-I plan to address common challenges and misconceptions that students may encounter while learning mathematics. Through clear explanations and helpful tips, I aim to provide guidance and support to listeners who may be struggling with certain topics or concepts.
+Throughout the episode, we address common misconceptions about mathematics and provide valuable insights into overcoming challenges that students may face. We also feature success stories from individuals who have utilized mathematical skills in diverse careers, highlighting the versatility and relevance of math beyond traditional academic settings.
 
-I also intend to feature interviews with experts in the field of mathematics, including educators, researchers, and professionals from diverse industries. These conversations will offer valuable insights and perspectives, inspiring students to explore the many opportunities available through mathematics.
-
-Overall, my podcast seeks to inspire curiosity, promote understanding, and foster a deeper appreciation for mathematics among students. I look forward to sharing my passion for this subject and empowering listeners to embrace the beauty and relevance of mathematics in their academic journey and beyond.
+In this episode, we explore mathematics' practical applications and relevance for students through expert interviews and engaging discussions, aiming to demystify the subject and inspire a deeper understanding.
 
 ## 📢 Call to Action
 
-After a person listens to this episode what do you want them to do?
- 🤝Share to others and follow my podcast.
+After a person listens to this episode, what do you want them to do?
+Share the episode with others.
 
 Write at least two sentences that explain the call to action for this episode.
 
@@ -108,7 +99,7 @@ Write at least two sentences that explain the call to action for this episode.
 
 ## 🦜 References
 
-Please reference at least three web sites or articles from a journal or a
+Please reference at least three websites or articles from a journal or a
 conference proceedings that you studied when preparing this proposal.
 
 Make sure that you use correctly formatted Markdown links to the
@@ -117,12 +108,3 @@ references that you consulted when writing this show proposal.
 - **Reference One**: [The Build Math Minds Podcast website](https://buildmathminds.com/podcast/)
 - **Reference Two**: [Math Ed podcast Website](https://www.podomatic.com/podcasts/mathed)
 - **Reference Three**: [MathsTalk by AMSI Website](https://calculate.org.au/mathstalk-podcast/)
-
-If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
-
-No AI is used
