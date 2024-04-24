@@ -69,8 +69,6 @@ ask the guest.
 - **Question Two**: What sparked your interest in pursuing mathematics as a field of study?
 - **Question Three**: How do you ensure that your teaching methods support and encourage all students, regardless of their backgrounds or abilities?
 
-Justify why this question aligns with the podcast objective.
-
 - **Justification for Question One**: By asking what mathematics means to the guest personally, the podcast can introduce listeners to the diverse perspectives and personal connections people have with mathematics, helping to immerse them into the world of mathematics.
 - **Justification for Question Two**: Inquiring about what sparked the guest's interest in pursuing mathematics as a field of study can delve into the historical and personal narratives of discovery and passion, shedding light on how individuals develop their interest in mathematics.
 - **Justification for Question Three**: By exploring how the guest ensures that teaching methods support and encourage all students, irrespective of their backgrounds or abilities, the podcast can showcase the inclusive and practical applications of mathematics in understanding and addressing diverse learning needs and experiences.
@@ -80,13 +78,13 @@ Justify why this question aligns with the podcast objective.
 Write at least three to five paragraphs that describe the content of the
 episode, ensuring that the description is both engaging and informative.
 
-- Our podcast episode is a deep dive into the dynamic world of mathematics, aiming to make this often intimidating subject accessible and engaging for our audience. Through insightful interviews with experts and captivating discussions, we explore the practical applications of mathematics in everyday life and various academic fields.
+Our podcast episode is a deep dive into the dynamic world of mathematics, aiming to make this often intimidating subject accessible and engaging for our audience. Through insightful interviews with experts and captivating discussions, we explore the practical applications of mathematics in everyday life and various academic fields.
 
-- The episode begins with an introduction to the importance of mathematics, setting the stage for discussions on its role in problem-solving, critical thinking, and decision-making. We then delve into specific topics such as mathematical modeling, data analysis, and the impact of technology on mathematical concepts.
+The episode begins with an introduction to the importance of mathematics, setting the stage for discussions on its role in problem-solving, critical thinking, and decision-making. We then delve into specific topics such as mathematical modeling, data analysis, and the impact of technology on mathematical concepts.
 
-- Throughout the episode, we address common misconceptions about mathematics and provide valuable insights into overcoming challenges that students may face. We also feature success stories from individuals who have utilized mathematical skills in diverse careers, highlighting the versatility and relevance of math beyond traditional academic settings.
+Throughout the episode, we address common misconceptions about mathematics and provide valuable insights into overcoming challenges that students may face. We also feature success stories from individuals who have utilized mathematical skills in diverse careers, highlighting the versatility and relevance of math beyond traditional academic settings.
 
-- In this episode, we explore mathematics' practical applications and relevance for students through expert interviews and engaging discussions, aiming to demystify the subject and inspire a deeper understanding.
+In this episode, we explore mathematics' practical applications and relevance for students through expert interviews and engaging discussions, aiming to demystify the subject and inspire a deeper understanding.
 
 ## 📢 Call to Action
 
